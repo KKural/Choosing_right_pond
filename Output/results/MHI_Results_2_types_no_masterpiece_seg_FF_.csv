@@ -1,0 +1,5 @@
+"Log Transformations","Graffiti Types","Observed MHI Value","Mean Permutated MHI","SD Permutated MHI","P Value"
+"No Transformation","Tag vs SITS",0.635722420312071,0.838179766271202,0.00828753766243552,"< 0.001"
+"Square Root Transformation","Tag vs SITS",0.684288108786715,0.799740392351174,0.00569928136808319,"< 0.001"
+"Log Transformation + 0.5","Tag vs SITS",0.665287797964243,0.768068642804312,0.00628371183602788,"< 0.001"
+"Log Transformation + 1","Tag vs SITS",0.665990696405977,0.77748354180352,0.00621640277251611,"< 0.001"

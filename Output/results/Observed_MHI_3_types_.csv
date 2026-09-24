@@ -1,0 +1,13 @@
+"Log Transformations","Graffiti Types","Observed MHI Value"
+"No Transformation","Masterpiece vs Tag",0.168626741917644
+"No Transformation","Masterpiece vs SITS",0.233839333917532
+"No Transformation","Tag vs SITS",0.721657237037056
+"Square Root Transformation","Masterpiece vs Tag",0.142366550112541
+"Square Root Transformation","Masterpiece vs SITS",0.178535056439811
+"Square Root Transformation","Tag vs SITS",0.718002420029383
+"Log Transformation + 0.5","Masterpiece vs Tag",0.117404643102342
+"Log Transformation + 0.5","Masterpiece vs SITS",0.156760434474422
+"Log Transformation + 0.5","Tag vs SITS",0.685575445587047
+"Log Transformation + 1","Masterpiece vs Tag",0.118043192236178
+"Log Transformation + 1","Masterpiece vs SITS",0.162777606964192
+"Log Transformation + 1","Tag vs SITS",0.68829230519046

@@ -1,0 +1,19 @@
+"Scenario","Error Rate","Original Type","Masterpiece","SITS","Tag"
+"Adjacent boundary only",0.05,"Masterpiece",0.95,0.05,0
+"Adjacent boundary only",0.05,"SITS",0.025,0.95,0.025
+"Adjacent boundary only",0.05,"Tag",0,0.05,0.95
+"Adjacent boundary only",0.1,"Masterpiece",0.9,0.1,0
+"Adjacent boundary only",0.1,"SITS",0.05,0.9,0.05
+"Adjacent boundary only",0.1,"Tag",0,0.1,0.9
+"Adjacent boundary only",0.15,"Masterpiece",0.85,0.15,0
+"Adjacent boundary only",0.15,"SITS",0.075,0.85,0.075
+"Adjacent boundary only",0.15,"Tag",0,0.15,0.85
+"Diffuse with cross-pole bleed",0.05,"Masterpiece",0.95,0.025,0.025
+"Diffuse with cross-pole bleed",0.05,"SITS",0.025,0.95,0.025
+"Diffuse with cross-pole bleed",0.05,"Tag",0.025,0.025,0.95
+"Diffuse with cross-pole bleed",0.1,"Masterpiece",0.9,0.05,0.05
+"Diffuse with cross-pole bleed",0.1,"SITS",0.05,0.9,0.05
+"Diffuse with cross-pole bleed",0.1,"Tag",0.05,0.05,0.9
+"Diffuse with cross-pole bleed",0.15,"Masterpiece",0.85,0.075,0.075
+"Diffuse with cross-pole bleed",0.15,"SITS",0.075,0.85,0.075
+"Diffuse with cross-pole bleed",0.15,"Tag",0.075,0.075,0.85

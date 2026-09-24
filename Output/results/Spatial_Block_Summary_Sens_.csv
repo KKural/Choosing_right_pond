@@ -1,0 +1,5 @@
+"requested_blocks","constructed_cells","realized_blocks","min_seg","median_seg","max_seg"
+10,16,15,11,101,258
+25,25,22,1,65.5,164
+50,64,53,1,27,73
+100,100,78,1,21,57
